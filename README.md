@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ludocius
 - 👀 I’m interested in becoming better programmer and software developer
-- 🌱 I’m currently learning about Java programming platform, AWS Software common developer services.
-- 💞️ I’m looking to collaborate on projects with real commitment in middle and long term
+- 🌱 I’m currently learning about Java programming platform, Cloud Software common developer services.
 - 📫 How to reach me Linkedin: linkedin.com/in/luis-fernando-pinzon-marroquin-a226001a0
 
 <!---
