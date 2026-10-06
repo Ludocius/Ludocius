@@ -1,6 +1,6 @@
 # Luis Fernando Pinzon Marroquin
 
-Software Engineer based in Bogota, Colombia with 5+ years of experience building backend systems at scale.
+Software Engineer based in Bogota, Colombia with 5+ years of experience building backend systems at scale. Interested in open source and always looking for projects to contribute to.
 
 ## What I do
 
