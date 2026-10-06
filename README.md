@@ -1,30 +1,21 @@
-# Luis Fernando Pinzón Marroquín
+# Luis Fernando Pinzon Marroquin
 
-Backend engineer with 5+ years of experience building and maintaining microservices in Java across consulting, fintech, and e-commerce.
+Software Engineer based in Bogota, Colombia with 5+ years of experience building backend systems at scale.
 
-I work primarily with Java 17, Spring Boot, and AWS serverless services, with a focus on clean and hexagonal architecture. I use AI-assisted tools like GitHub Copilot and Claude Code as part of my daily workflow.
+Currently at **Lean Tech** working on enterprise Java applications. Previously shipped production code at **Mercado Libre**, **Lulo Bank**, **CI&T**, and **Accenture**.
 
-## What I work with
+## What I do
 
-**Day to day:** Java · Spring Boot · Oracle SQL · PostgreSQL · Docker · Jenkins · Git
+- Design and build backend services in **Java** and **Kotlin** (Spring Boot, Clean/Hexagonal Architecture)
+- Ship **Python** services with Django and AWS SDK
+- Build cloud infrastructure on **AWS** (serverless, event-driven) and **GCP**
+- Set up CI/CD pipelines (Jenkins, GitHub Actions, Azure DevOps, CircleCI)
+- Work with **PostgreSQL**, **DynamoDB**, **MongoDB**, **Kafka**, and **Redis**
+- Integrate AI-assisted workflows (GitHub Copilot, Claude Code) into development processes
 
-**Cloud & infra:** AWS (SQS, SNS, S3, RDS, EC2, Lambda) · Azure DevOps · GCP
+## Links
 
-**Architecture:** Hexagonal · Clean Architecture · Event-Driven · CQRS · RESTful APIs
-
-**Testing:** JUnit · Mockito · TDD · Selenium
-
-**AI tooling:** GitHub Copilot · Claude Code · prompt engineering
-
-## What I care about
-
-- High test coverage and reliable deployments
-- Code reviews and mentoring
-- Leaving codebases better than I found them
-
-## Where to find me
-
-- [LinkedIn](https://www.linkedin.com/in/luis-fernando-pinzon-marroquin-a226001a0/)
-- [Codewars](https://www.codewars.com/users/Ludocius)
-- [Coursera](https://www.coursera.org/user/9f6be8385667b5184b46bcaf4a8427d3)
-- [Credly](https://www.credly.com/users/luis-fernando-pinzon-marroquin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-fernando-pinzon-marroquin-a226001a0/)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/Ludocius)
+[![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=coursera&logoColor=white)](https://www.coursera.org/user/9f6be8385667b5184b46bcaf4a8427d3)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/luis-fernando-pinzon-marroquin)
