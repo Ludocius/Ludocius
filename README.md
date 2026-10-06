@@ -1,8 +1,8 @@
 # Luis Fernando Pinzon Marroquin
 
-Software Engineer based in Bogota, Colombia with 5+ years of experience building backend systems at scale.
+Software Engineer with 5+ years of experience building backend systems at scale.
 
-Currently at **Lean Tech** working on enterprise Java applications. Previously shipped production code at **Mercado Libre**, **Lulo Bank**, **CI&T**, and **Accenture**.
+Currently at **Lean Tech**. Previously shipped production code at **Mercado Libre**, **Lulo Bank**, **CI&T**, and **Accenture**.
 
 ## What I do
 
